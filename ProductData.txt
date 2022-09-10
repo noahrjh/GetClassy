@@ -1,0 +1,5 @@
+Mtn Dew, Green Soda, 000001, 2.99
+Coca-Cola, Brown Soda, 000002, 2.99
+Crush, Orange Soda, 000003, 3.5
+000004, Clear Soda, 000001, 2.99
+Diet Mtn Dew, Diet Green Soda, 000005, 2.99
